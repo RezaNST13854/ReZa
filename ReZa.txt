@@ -43,9 +43,7 @@ hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#%E2%9A%A1%
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=ELiV2RAY.eliv2.top%0A&obfs=salamander&obfs-password=8c3ce17b#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
 hysteria://108.181.5.133:26022/?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
-warp://162.159.192.68:968/?ifp=5-10#@PewezaVPN#1
-warp://188.114.96.101:2408/?ifp=5-10#@PewezaVPN#2
-warp://162.159.195.171:8854/?ifp=5-10#@PewezaVPN#3
-warp://162.159.192.145:968/?ifp=5-10#@PewezaVPN#4
-warp://188.114.96.130:880/?ifp=5-10#@PewezaVPN#5
-warp://162.159.192.253:934/?ifp=5-10#@PewezaVPN#6
+sn://wg?eNpjYmBgMDQz0jM0tdQztDTVM9nULsvAsMPQHChkpmegZ6RvbMRlZGZgZmVibmBgZWhoYGVhaWRqlWKWZmRlbmEOJIwsrdLMjQz0DY0s1ob6WuT7ZAaHuziVVbimlfklJWd5-AalF1gmhlkmuaUElRuVu6cXlTuWG4fark3KjfB31nYzdKtw9XWzTKnM9DbyMNU3DA4tqfIw8CoNyzc1zDAqD0hLr8y3bWRgZWDwjHJfzwh08Ky3C_a-3dSn4BCQWp5alRgW4KegEZ5ZlJpemliUotnYCAA7xj7v
+sn://wg?eNpjYmBgMDQz0jM0tdQztDTSMzLZsJqZgWGnoTlQzEzPQM9I39iIy8jMwMzKxNzAwMrQ0MDKIi3ZyMrYwMLUKs0yxcwqMS052SrZNClR39DIYm2kZ0WBoaGTR3FOSpana0lxlEteXnpQQGVwWopbQJpfvoV5pmOZf46TqUG-7dqk3Ah_Z203Q7cKV183y5TKTG8jD1N9w-DQkioPA6_SsHxTwwyj8oC09Mp820YGVgaGyOSyH4xAJ896u2Dv2019Cg4BqeWpVYlhAX4KGuGZRanppYlFKZqNjQBwi0Et
+sn://wg?eNpjYmBgMDQz0jM0tdQztATSBpvVlBgYdhqaA9lmegZ6RvrGRlxGZgZmVibmBgZWhoYGVhYWxolWaWmJKVZmhobJVoYGQFZaapqxvqGRxVoD15BIAx9DT08vbadSY09t70ynHAsTo4xwo3TP0KqwopL8MC_HZFffqNxQ27VJuRH-ztpuhm4Vrr5ulimVmd5GHqb6hsGhJVUeBl6lYfmmhhlG5QFp6ZX5to0MrAwM6ZER6xmBTp71dsHet5v6FBwCUstTqxLDAvwUNMIzi1LTSxOLUjQbGwFJ1D7P
+sn://wg?eNpjYmBgMDQz0jM0tdQztDTVMzLYMIWXgWGHoTlQzEzPQM9I39iIy8jMwMzKxNzAwMrQ0MDKwtIo2co0ySDVKjnZwsrEONHMytjIOE3f0Mhira9fvn6IV3h6lmtOtl-gtmdilkmoR3hyVkZIbnZOSWZJSJhXWWq-aWhEhIHt2qTcCH9nbTdDtwpXXzfLlMpMbyMPU33D4NCSKg8Dr9KwfFPDDKPygLT0ynzbRgZWBoZI_8pvjEAXz3q7YO_bTX0KDgGp5alViWEBfgoa4ZlFqemliUUpmo2NAMpVQDA
