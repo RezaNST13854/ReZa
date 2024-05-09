@@ -48,3 +48,7 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjEwOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJlZGdl
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImVkZ2UiLCJob3N0IjoieG1pdmlkZW8uY2ZkIiwiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hAUGV3ZXphVlBOIiwic2N5IjoiYXV0byIsInNuaSI6InhtaXZpZGVvLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://f5a78514-1a94-486e-92a7-3bc9817095a6@nitriding.appreviewcenter.com:443?path=%2Fnimws&security=tls&encryption=none&fp=edge&type=ws&sni=nitriding.appreviewcenter.com#%F0%9F%87%BA%F0%9F%87%B8%40PewezaVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZ29HVC9RazdxekNua0tYK2xmakd1TjhOVWlRMlByS0VXR0tVb2hpRWdJPQ==@3.78.245.228:8080#%F0%9F%92%9C+%40PewezaVPN+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7
+hysteria://130.61.24.219:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
+hysteria://158.179.182.107:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
+hysteria://108.181.5.133:26022/?insecure=1&peer=google.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
+hysteria://141.145.194.153:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%E2%9A%A1%EF%B8%8F%20%40PewezaVPN%20%28Hysteria%29
