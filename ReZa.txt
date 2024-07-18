@@ -14,3 +14,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#%F0%9F%87%B3%F0%9F
 warp://188.114.97.63:1074/?ifp=5-10#@PewezaVPN#52
 warp://162.159.192.95:939/?ifp=5-10#@PewezaVPN#54
 warp://162.159.192.102:4177/?ifp=1-5#@PewezaVPN#56
+warp://[2606:4700:d1::940f:5077:73ca:c24e]:8886/?ifp=1-5#warp-ir&&detour=warp://188.114.99.174:5279/?ifp=1-5#warp-main#@PewezaVPN
+warp://[2606:4700:d1::6f72:2bb5:25ec:98bd]:854/?ifp=1-5#warp-ir&&detour=warp://188.114.99.8:891/?ifp=1-5#warp-main#@PewezaVPN
+warp://[2606:4700:d1::6d11:d9b8:8dae:b35d]:2408/?ifp=1-5#warp-ir&&detour=warp://188.114.99.87:500/?ifp=1-5#warp-main#@PewezaVPN
