@@ -5,3 +5,13 @@ warp://188.114.97.223:5956?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN &&d
 warp://188.114.98.149:1074?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN &&detour=warp://188.114.97.85:8854?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN
 warp://188.114.96.220:3581/?ifp=5-10#@PewezaVPN#51
 warp://188.114.99.112:4500/?ifp=5-10#@PewezaVPN#50
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJ0Lm1lL05UR3JlZW4g8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIxUzB0YnBjeXNUVnpLbm5ma2JheEs4bXlrYWlZWWhEckgyallHcnYycTV6YkN6QWpsLnByb3Rvbml4LmlyLiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=AmVE-YA8JAYesGpPEX2qXFaN5bQMMGj9WClQs0ZB2QQ&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=8b151953#%E2%9D%94XX+%7C+NTGreen+%F0%9F%91%BD
+vless://c9abc6f1-7c7a-4bcb-a807-7e3365dc48fd@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=7.V.www.speedtest.net.dev.cloudflare.com.pinocchio1.ir.&type=ws#t.me%2FNTGreen
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@213.183.63.69:9029#%F0%9F%87%A7%F0%9F%87%AC%20NTGreen%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#%20%F0%9F%87%B5%F0%9F%87%A6%20PA%20%40NTGreen
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4%20NO-%20NTGreen
+warp://188.114.97.63:1074/?ifp=5-10#@PewezaVPN#52
+warp://188.114.96.146:5956/?ifp=5-10
+warp://162.159.192.95:939/?ifp=5-10#@PewezaVPN#54
+warp://162.159.192.102:4177/?ifp=1-5#@PewezaVPN#56
