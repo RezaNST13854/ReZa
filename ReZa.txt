@@ -3,7 +3,6 @@ warp://[2606:4700:d1::6f72:2bb5:25ec:98bd]:854/?ifp=1-5#warp-ir&&detour=warp://1
 warp://[2606:4700:d1::6d11:d9b8:8dae:b35d]:2408/?ifp=1-5#warp-ir&&detour=warp://188.114.99.87:500/?ifp=1-5#warp-main#@PewezaVPN
 warp://188.114.97.223:5956?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN &&detour=warp://188.114.97.197:5956?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN
 warp://188.114.98.149:1074?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN &&detour=warp://188.114.97.85:8854?ifp=10-20&ifps=20-60&ifpd=5-10#🇩🇪@PewezaVPN
-warp://188.114.96.220:3581/?ifp=5-10#@PewezaVPN#51
 warp://188.114.99.112:4500/?ifp=5-10#@PewezaVPN#50
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJ0Lm1lL05UR3JlZW4g8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIxUzB0YnBjeXNUVnpLbm5ma2JheEs4bXlrYWlZWWhEckgyallHcnYycTV6YkN6QWpsLnByb3Rvbml4LmlyLiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 vless://bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=AmVE-YA8JAYesGpPEX2qXFaN5bQMMGj9WClQs0ZB2QQ&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=8b151953#%E2%9D%94XX+%7C+NTGreen+%F0%9F%91%BD
