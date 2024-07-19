@@ -18,3 +18,5 @@ warp://[2606:4700:d1::6f72:2bb5:25ec:98bd]:854/?ifp=1-5#warp-ir&&detour=warp://1
 warp://[2606:4700:d1::6d11:d9b8:8dae:b35d]:2408/?ifp=1-5#warp-ir&&detour=warp://188.114.99.87:500/?ifp=1-5#warp-main#@PewezaVPN
 warp://188.114.99.175:928/?ifp=25-30#amirparsaxs
 warp://162.159.192.184:945/?ifp=25-30#amirparsaxs
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%40NTGreen
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@80.92.204.106:9020#%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%40NTGreen
