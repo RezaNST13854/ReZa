@@ -20,3 +20,5 @@ warp://188.114.99.175:928/?ifp=25-30#amirparsaxs
 warp://162.159.192.184:945/?ifp=25-30#amirparsaxs
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%40NTGreen
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@80.92.204.106:9020#%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%40NTGreen
+vless://0fb84311-ab76-4948-b9ca-68b6dc7b52e6@185.146.173.58:2052?path=%2FMMad%3Fed%3D2560&security=none&encryption=none&host=xn--fn67-zula-3e8ni2tj0k320e004ge7n.Palmex.Ir.&type=ws#t.me%2FNTGreen
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#%F0%9F%87%A9%F0%9F%87%AA+DE-+NTGreen
