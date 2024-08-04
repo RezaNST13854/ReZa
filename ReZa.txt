@@ -63,3 +63,5 @@ vless://f8ae1d19-44c5-4cc3-ab1c-24e452ed15a0@104.16.60.8:2095?path=%2F&security=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#t.me%2FNTGreen+%F0%9F%91%BD
 vless://b873f9fd-175b-4d4c-b538-fb1472ea3a85@185.146.173.158:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#t.me%2FNTGreen+%F0%9F%91%BD
 vless://33837aa4-a41f-441c-a0d5-fa7a8e18ae40@172.64.146.48:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=wgTNq5m7eYJmld9KfLxG&sni=mshngc1.freeairlaines.com#t.me%2FNTGreen+%F0%9F%91%BD
+vless://f4845e97-dd8f-40b4-ab7c-ca69cbae2119@94.182.129.69:56189?security=none&encryption=none&host=Uptvs.com&headerType=http&type=tcp#t.me%2FNTGreen+%F0%9F%91%BD
+vless://12972c14-ae0a-4ebd-89fc-6ba24fff1f95@104.25.144.171:8080?path=2560%2FDaily_Configs%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com&type=ws#t.me%2FNTGreen+%F0%9F%91%BD
